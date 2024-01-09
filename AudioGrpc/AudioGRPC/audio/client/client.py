@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/Users/aaron/Documents/escuelini/7/Code/PracticasDSR/grpc-java-python/audio')
+sys.path.append('/Users/Documents/escuelini/7/Code/PracticasDSR/grpc-java-python/audio')
 
 import grpc
 import audio_pb2
